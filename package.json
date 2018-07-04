@@ -1,0 +1,22 @@
+{
+  "name": "fill-seats",
+  "version": "1.0.0",
+  "description": "Airplane\tseating\talgorithm",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathansmj/fill-seats.git"
+  },
+  "author": "nathansmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathansmj/fill-seats/issues"
+  },
+  "homepage": "https://github.com/nathansmj/fill-seats#readme",
+  "dependencies": {
+    "app-root-path": "^2.1.0"
+  }
+}
